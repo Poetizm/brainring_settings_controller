@@ -1,0 +1,10 @@
+.env
+
+.mypy_cache/
+.vscode/
+venv/
+__pycache__/
+images/
+venv_spb_bot/
+*.log
+*.pot
